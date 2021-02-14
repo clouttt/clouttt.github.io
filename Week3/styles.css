@@ -53,3 +53,26 @@ nav li{
   border-color: #7C1A00;
   background-color:  #FFE597
 }
+#content {
+ background-image: url("trans-bg.gif");
+ border: 1px solid #CCCCCC;
+ margin-left: 180px;
+ padding: 10px;
+
+}
+footer {
+  clear: both;
+  text-align: center;
+}
+
+footer li {
+  display: inline;
+  padding: 10px;
+}
+
+global h1{
+  color: #8C9273
+}
+global h2{
+  border-left: 20px solid:#8C9273
+}
